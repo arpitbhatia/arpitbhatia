@@ -1,6 +1,6 @@
 ### Hi there! 👋, I'm Arpit
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=arpitbhatia alt=arpitbhatia/> </p>
+<!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=arpitbhatia alt=arpitbhatia/> </p> -->
 
 ### Thanks for stopping by! 🤩 🤩 &nbsp;
 
@@ -30,7 +30,7 @@ As a **full-stack developer,** I am skilled in all the facets of SDLC from conce
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=arpitbhatia&show_icons=true alt=arpitbhatia /> </p>
+<!-- <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=arpitbhatia&show_icons=true alt=arpitbhatia /> </p> -->
 
 
 
