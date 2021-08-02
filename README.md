@@ -23,7 +23,7 @@ As a **full-stack developer,** I am skilled in all the facets of SDLC from conce
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
-- 👯 I’m looking to collaborate on any exciting freelance project
+- 👯 I’m looking to collaborate on any exciting project
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about, be it tech or non-tech!
 - 📫 How to reach me: Email: **arpitbhatia.in@gmail.com** and [linkedIn](https://linkedin.com/in/arpitbhatia)
