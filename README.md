@@ -4,7 +4,7 @@
 
 ### Thanks for stopping by! 🤩 🤩 &nbsp;
 
-As a **full-stack developer,** I am skilled in all the facets of SDLC from concept through to development and delivery. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out.
+As a **full-stack developer,** I am skilled in all the facets of SDLC from concept through to development and delivery. Along with coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out.
 
 ### Technical Skills:  
 <p align="left">
