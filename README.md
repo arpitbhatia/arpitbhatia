@@ -1,38 +1,34 @@
-### Hi there! 👋, I'm Arpit
+# Hello, World!
 
-<!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=arpitbhatia alt=arpitbhatia/> </p> -->
+Hello! I am Arpit Bhatia.
 
-### Thanks for stopping by! 🤩 🤩 &nbsp;
-
-As a **full-stack developer,** I am skilled in all the facets of SDLC from concept through to development and delivery. Along with coding, I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out.
+- I'm a Full Stack Software Engineer from India.
+- I have experience building and scaling web applications and services in various verticals.
+- I also enjoy building side projects in my free time.
 
 ### Technical Skills:  
 <p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="react" width="40" height="40"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="33" height="33"/> </a>
+  <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="react" width="35" height="35"/> </a>
+    <a href="https://reactnative.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="33" height="33"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35"/> </a>
+    <a href="https://www.gatsbyjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsby" width="35" height="35"/> </a>
+    <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="35" height="35"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="35" height="35"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="35" height="35"/> </a>
+     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a>
+    <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="35" height="35"/> </a>
+<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//redis/redis-original.svg" alt="express" width="35" height="35"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/> </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/> </a>
+   </p>
+    
+    
 
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning ... -->
-- 👯 I’m looking to collaborate on any exciting project
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about, be it tech or non-tech!
-- 📫 How to reach me: Email: **arpitbhatia.in@gmail.com** and [linkedIn](https://linkedin.com/in/arpitbhatia)
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-<!-- <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=arpitbhatia&show_icons=true alt=arpitbhatia /> </p> -->
-
-
-
-
-<!-- ![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitbhatia&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6) -->
+- 📫 E-mail: arpitbhatia.in@gmail.com 
+- <a href="https://www.java.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/> </a> [Linked In](https://linkedin.com/in/arpitbhatia)
