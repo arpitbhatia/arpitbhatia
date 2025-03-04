@@ -2,7 +2,7 @@
 
 Hello! I am Arpit Bhatia.
 
-- I'm a Full Stack Software Engineer from India.
+- I'm a Full Stack Software Engineer from Toronto.
 - I have experience building and scaling web applications and services in various verticals.
 - I also enjoy building side projects in my free time.
 
